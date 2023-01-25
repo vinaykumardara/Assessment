@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrierPricingAPI", "CarrierPricing\CarrierPricingAPI.csproj", "{3B051AED-D0FE-4638-A080-C5C792301D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrierPricingAPI.Test", "CarrierPricingAPI.Test\CarrierPricingAPI.Test.csproj", "{2A5F8EA2-BE89-462B-A32C-7C81B78C9BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B051AED-D0FE-4638-A080-C5C792301D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B051AED-D0FE-4638-A080-C5C792301D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B051AED-D0FE-4638-A080-C5C792301D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B051AED-D0FE-4638-A080-C5C792301D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5F8EA2-BE89-462B-A32C-7C81B78C9BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5F8EA2-BE89-462B-A32C-7C81B78C9BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5F8EA2-BE89-462B-A32C-7C81B78C9BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5F8EA2-BE89-462B-A32C-7C81B78C9BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6576D74B-84D8-4D34-8D44-D4F7064DD946}
+	EndGlobalSection
+EndGlobal
